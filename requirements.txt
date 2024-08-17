@@ -1,0 +1,7 @@
+numpy
+paddleocr
+paddlepaddle
+pillow
+PyMuPDF
+python-pptx
+scikit-learn
